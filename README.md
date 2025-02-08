@@ -1,3 +1,5 @@
+## Basic API
+
 #### POST API
 https://irctc-api-z2vm.onrender.com/api/v1/trains/search
 
